@@ -1,2 +1,1 @@
 # bidi
-Bidirectional experiment
