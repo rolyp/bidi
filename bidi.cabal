@@ -25,7 +25,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      Bidi
   other-modules:
       Paths_bidi
   hs-source-dirs:

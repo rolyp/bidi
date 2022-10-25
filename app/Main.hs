@@ -1,6 +1,6 @@
 module Main (main) where
 
-import Lib
+import Bidi
 
 main :: IO ()
 main = someFunc
