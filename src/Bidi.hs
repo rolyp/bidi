@@ -1,6 +1,6 @@
 module Bidi
-    ( someFunc
-    ) where
+   ( someFunc
+   ) where
 
 someFunc :: IO ()
 someFunc = putStrLn "someFunc"
