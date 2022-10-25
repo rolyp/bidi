@@ -1,0 +1,10 @@
+cradle:
+  stack:
+    - path: "./test/Spec.hs"
+      component: "bidi:test:bidi-test"
+
+    - path: "./app/Main.hs"
+      component: "bidi:exe:bidi-exe"
+
+    - path: "./src/Bidi.hs"
+      component: "bidi:lib"
